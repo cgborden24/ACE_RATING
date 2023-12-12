@@ -5,7 +5,26 @@
 
 **Cole section**
 Make sure they name database **"Capstone"** this just needs to be initially installing pgadmin then your code should build the tables etc
+** Instructions for Installing PGAdmin4 and PostgreSQL on MacOS**
+  1) Search PostGRE SQL on google
+  2) Click on postgresql.org
+  3) Follow steps to download newest supported version for your OS
+  4) Save ZIP file in downloads folder
+  5) Follow installation steps
+  6) Do not change any information
+  7) When prompted with password, just type in "password". It is bad if you forget this so make it easy. If its complex, just write it down somewhere.
+  8) Keep port number as default
+  Now for PGAdmin:
+  1) WWW.pgadmin.org
+  2) Press donwload for the operating system you are using
+  3) Grab the .dmg file. It is the biggest one.
+  4) Download to your downloads folder
+  5) Open it
+  6) Follow install steps
+  7) Open PGAdmin4 and follow instructions on how to create a database
 
+**For our code to work you need to create a Database on the left side of PGAdmin.
+YOU MUST NAME IT "Capstone" for our code to work with no changed. After you have created a database called "Capstone" (Case sensitivity matters), you should be good to go.**
 
 **Instructions for installing Ignition**
 
