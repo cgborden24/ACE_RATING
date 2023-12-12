@@ -7,7 +7,7 @@
 Make sure they name database **"Capstone"** this just needs to be initially installing pgadmin then your code should build the tables etc
 ** Instructions for Installing PGAdmin4 and PostgreSQL on MacOS**
   1) Search PostGRE SQL on google
-  2) Click on postgresql.org
+  2) Click on www.postgresql.org
   3) Follow steps to download newest supported version for your OS
   4) Save ZIP file in downloads folder
   5) Follow installation steps
