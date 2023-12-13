@@ -52,7 +52,7 @@ YOU MUST NAME IT "Capstone" for our code to work with no changed. After you have
   17) Create a User for your gateway (this can be anything **you will remember**)
   18) Configure ports - You can leave all the ports to the defaulted options
   19) Finish setup and start gateway
-  20) Download file ACEapplication.AceNbaMvpApp.gwbk
+  20) Download file AceNbaMvpApp.gwbk
   21) From your gateway navigate to the left side menu to **Config** -> **Backup and Restore** -> **Restore** and then choose file and select the ACEapplication.gwbk file and hit restore
   22) Once that process is complete 
   23) On the home screen of the gateway navigate to **Run it** -> **View Projects** -> And click **Launch Project** under ACE MVP Rating
