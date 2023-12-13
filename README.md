@@ -18,7 +18,7 @@ Make sure they name database **"Capstone"** this just needs to be initially inst
   7) When prompted with password, just type in "password". It is bad if you forget this so make it easy. If its complex, just write it down somewhere.
   8) Keep port number as default
   Now for PGAdmin:
-  1) WWW.pgadmin.org
+  1) www.pgadmin.org
   2) Press donwload for the operating system you are using
   3) Grab the .dmg file. It is the biggest one.
   4) Download to your downloads folder
@@ -50,7 +50,7 @@ YOU MUST NAME IT "Capstone" for our code to work with no changed. After you have
   17) Create a User for your gateway (this can be anything **you will remember**)
   18) Configure ports - You can leave all the ports to the defaulted options
   19) Finish setup and start gateway
-  20) Download file ACEapplication.gwbk
+  20) Download file ACEapplication.AceNbaMvpApp.gwbk
   21) From your gateway navigate to the left side menu to **Config** -> **Backup and Restore** -> **Restore** and then choose file and select the ACEapplication.gwbk file and hit restore
   22) Once that process is complete 
   23) On the home screen of the gateway navigate to **Run it** -> **View Projects** -> And click **Launch Project** under ACE MVP Rating
