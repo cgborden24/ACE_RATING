@@ -6,7 +6,9 @@
   1) Make sure the database is all set up and you have ignition set up
   2) Download all of the necessary files. Make sure all of the files are in the same directory on your computer. Take the files in the folder "data" and put them in the same working directory as ace.py
   3) Run ace.py through your terminal with the command "python ace.py"
+     
 **Cole section**
+
 Make sure they name database **"Capstone"** this just needs to be initially installing pgadmin then your code should build the tables etc
 ** Instructions for Installing PGAdmin4 and PostgreSQL on MacOS**
   1) Search PostGRE SQL on google
